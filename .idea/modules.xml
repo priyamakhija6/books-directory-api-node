@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/books-directory.iml" filepath="$PROJECT_DIR$/.idea/books-directory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hotel-management/.idea/hotel-management.iml" filepath="$PROJECT_DIR$/../hotel-management/.idea/hotel-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../login-system/.idea/login-system.iml" filepath="$PROJECT_DIR$/../login-system/.idea/login-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../login-system-mongoose/.idea/login-system-mongoose.iml" filepath="$PROJECT_DIR$/../login-system-mongoose/.idea/login-system-mongoose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../portfolio/.idea/portfolio.iml" filepath="$PROJECT_DIR$/../portfolio/.idea/portfolio.iml" />
+    </modules>
+  </component>
+</project>
